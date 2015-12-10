@@ -18,7 +18,7 @@
 
 ## Xcode 插件 Plug-ins
 
-1. [Alcatraz](https://github.com/alcatraz/Alcatraz)
+1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz)
 
 > Xcode 插件管理工具。
 >
@@ -34,27 +34,27 @@
 >
 > **⌘ + shift + H**
 
-4. [ESJsonFormat](https://github.com/EnjoySR/ESJsonFormat-Xcode)
+4. [**ESJsonFormat**](https://github.com/EnjoySR/ESJsonFormat-Xcode)
 
 > 将 JSON 格式化输出为模型的属性。
 >
 > **ctrl + shift + J**
 
-5. [FuzzyAutocomplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
+5. [**FuzzyAutocomplete**](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
 
 > 浮想输入！神器！
 
-6. [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
+6. [**KSImageNamed**](https://github.com/ksuther/KSImageNamed-Xcode)
 
 > 图片预览。
 
-7. [OMColorSense](https://github.com/omz/ColorSense-for-Xcode)
+7. [**OMColorSense**](https://github.com/omz/ColorSense-for-Xcode)
 
 > 颜色预览。
 
-8. [Peckham](https://github.com/markohlebar/Peckham)
+8. [**Peckham**](https://github.com/markohlebar/Peckham)
 
-> 轻松导入头文件。
+> 轻松导入头文件。神器！
 >
 > **⌘ + ctrl + P**
 
@@ -62,7 +62,7 @@
 
 > Swift 自动填写枚举值。
 
-10. [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+10. [**VVDocumenter-Xcode**](https://github.com/onevcat/VVDocumenter-Xcode)
 
 > 注释神器！
 >
@@ -72,7 +72,7 @@
 
 > 炫酷的输入效果！目前不稳定，偶尔导致卡死，尤其 Swift 不建议使用。
 
-12. [XAlign](https://github.com/qfish/XAlign)
+12. [**XAlign**](https://github.com/qfish/XAlign)
 
 > 代码对齐。
 >
