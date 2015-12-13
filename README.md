@@ -18,7 +18,9 @@
 
 ## Xcode 插件 Plug-ins
 
-  1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议**安装该插件，然后直接利用该插件管理安装其他插件)
+**加粗** 代表推荐。
+
+  1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件管理安装其他插件)
 
   > Xcode 插件管理工具。
   >
@@ -74,7 +76,7 @@
 
   12. [**XAlign**](https://github.com/qfish/XAlign)
 
-  > 代码对齐。
+  > 代码快速对齐。
   >
   > **⌘ + ctrl + X**
 
@@ -86,6 +88,13 @@
 
   > 查看代码行数/记录排行榜。
 
+
+
+## 联系
+
+  * 有问题请直接 [Issues](https://github.com/LeoiOS/LCTabBarController/issues/new) :)
+  * Email: <leoios@sina.com> & <liucsuper@gmail.com>
+  * Blog: http://LeoDev.me & http://www.leodong.com
 
 
 
