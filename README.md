@@ -88,6 +88,12 @@
 
   > 查看代码行数/记录排行榜。
 
+  15. [**RTImageAssets**](https://github.com/rickytan/RTImageAssets)
+
+  > 生成 \@3x 的图片资源对应的 \@2x 和 \@1x 版本。
+  >
+  > 当然你也可以从 \@2x 的图生成 \@3x 版本，如果你对图片质量要求不高的话。
+
 
 
 ## 联系
