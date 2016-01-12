@@ -14,7 +14,7 @@
 
   > 加密工具
 
-2. [Singleton](https://github.com/LeoiOS/LCUtils/tree/master/Singleton)
+2. [Singleton](https://github.com/LeoiOS/LCUtils/tree/master/Singleton.h)
 
   > 快速创建适用于 ARC / MRC 下的 **单例**
 
