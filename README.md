@@ -2,9 +2,9 @@
 
 🎈🎅🎉🎄☀️🔥🐤🐔
 
-个人在开发中使用的工具。
+集合了一些个人在开发中使用的工具，如有意见和建议欢迎 [点击反馈](https://github.com/LeoiOS/LCUtils/issues/new)！
 
-欢迎访问 **我的博客**：<http://LeoDev.me> ~
+知识探讨，欢迎访问 **我的博客**~ <http://LeoDev.me>
 
 
 
@@ -116,9 +116,9 @@
 
 ## 联系
 
-  * 有问题请直接 [Issues](https://github.com/LeoiOS/LCTabBarController/issues/new) :)
-  * Email: <leoios@sina.com> & <liucsuper@gmail.com>
-  * Blog: http://LeoDev.me & http://www.leodong.com
+* 如有意见和建议，请直接提出新 [Issues](https://github.com/LeoiOS/LCUtils/issues/new) :)
+* Email: <leoios@sina.com> & <liucsuper@gmail.com>
+* Blog: http://LeoDev.me & http://www.leodong.com
 
 
 
