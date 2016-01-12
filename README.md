@@ -24,7 +24,7 @@
 
   **加粗** 代表推荐。
 
-  1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件管理安装其他插件)
+  1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件安装管理其他插件)
 
     > Xcode 插件管理工具。
     >
