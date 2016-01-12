@@ -4,21 +4,25 @@
 
 个人在开发中使用的工具。
 
-欢迎访问**我的博客**：http://LeoDev.me
-
+欢迎访问**我的博客**：<http://LeoDev.me> ~
 
 
 
 ## 目录 List
 
-1. [Encrypt](https://github.com/LeoiOS/LCUtils/tree/master/Encrypt) —— 加密工具
+1. [Encrypt](https://github.com/LeoiOS/LCUtils/tree/master/Encrypt)
+
+> 加密工具
+
+2. [Singleton](https://github.com/LeoiOS/LCUtils/tree/master/Singleton)
+
+> 快速创建适用于 ARC / MRC 下的 **单例**
 
 
 
+3. Xcode 插件 Plug-ins
 
-## Xcode 插件 Plug-ins
-
-**加粗** 代表推荐。
+  **加粗** 代表推荐。
 
   1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件管理安装其他插件)
 
