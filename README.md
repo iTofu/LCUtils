@@ -24,6 +24,12 @@
 
 [查看源码](https://github.com/LeoiOS/LCUtils/tree/master/Encrypt)
 
+| --- |
+| AES |
+| MD5 |
+| RSA |
+
+
 
 
 ## Singleton
