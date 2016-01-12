@@ -10,16 +10,11 @@
 
 ## 目录
 
-1. [Encrypt](https://github.com/LeoiOS/LCUtils/blob/master/README.md#encrypt)
+1. [Encrypt](https://github.com/LeoiOS/LCUtils#encrypt)
 
-2. [Singleton](https://github.com/LeoiOS/LCUtils/blob/master/README.md#singleton)
+2. [Singleton](https://github.com/LeoiOS/LCUtils#singleton)
 
-3. [Xcode 插件](https://github.com/LeoiOS/LCUtils/blob/master/README.md#xcode-插件)
-
-
-100. [联系](https://github.com/LeoiOS/LCUtils/blob/master/README.md#联系)
-
-101. []授权 License](https://github.com/LeoiOS/LCUtils/blob/master/README.md#授权-license)
+3. [Xcode 插件](https://github.com/LeoiOS/LCUtils#xcode-插件)
 
 
 
