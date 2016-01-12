@@ -8,95 +8,109 @@
 
 
 
-## 目录 List
+## 目录
 
-1. [Encrypt](https://github.com/LeoiOS/LCUtils/tree/master/Encrypt)
+1. [Encrypt]()
 
-  > 加密工具
+2. Singleton
 
-2. [Singleton](https://github.com/LeoiOS/LCUtils/tree/master/Singleton.h)
-
-  > 快速创建适用于 ARC / MRC 下的 **单例**
+3. Xcode 插件
 
 
+100. 联系
 
-3. Xcode 插件 Plug-ins
+101. 授权 License
 
-  **加粗** 代表推荐。
 
-  1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件安装管理其他插件)
+## [Encrypt](https://github.com/LeoiOS/LCUtils/tree/master/Encrypt)
 
-    > Xcode 插件管理工具。
-    >
-    > **⌘ + shift + 9**
+> 加密工具
 
-  2. [Backlight](https://github.com/limejelly/Backlight-for-XCode)
 
-    > 编辑行代码高亮显示。
 
-  3. [DerivedData Exterminator](https://github.com/kattrali/deriveddata-exterminator)
+## [Singleton](https://github.com/LeoiOS/LCUtils/tree/master/Singleton.h)
 
-    > 清除 Derived Data。
-    >
-    > **⌘ + shift + H**
+> 快速创建适用于 ARC / MRC 下的 **单例**
 
-  4. [**ESJsonFormat**](https://github.com/EnjoySR/ESJsonFormat-Xcode)
 
-    > 将 JSON 格式化输出为模型的属性。
-    >
-    > **ctrl + shift + J**
 
-  5. [**FuzzyAutocomplete**](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
+## Xcode 插件
 
-    > 浮想输入！神器！
+**加粗** 代表推荐。
 
-  6. [**KSImageNamed**](https://github.com/ksuther/KSImageNamed-Xcode)
+1. [**Alcatraz**](https://github.com/alcatraz/Alcatraz) (**建议** 安装该插件，然后直接利用该插件安装管理其他插件)
 
-    > 图片预览。
+  > Xcode 插件管理工具。
+  >
+  > **⌘ + shift + 9**
 
-  7. [**OMColorSense**](https://github.com/omz/ColorSense-for-Xcode)
+2. [Backlight](https://github.com/limejelly/Backlight-for-XCode)
 
-    > 颜色预览。
+  > 编辑行代码高亮显示。
 
-  8. [**Peckham**](https://github.com/markohlebar/Peckham)
+3. [DerivedData Exterminator](https://github.com/kattrali/deriveddata-exterminator)
 
-    > 轻松导入头文件。神器！
-    >
-    > **⌘ + ctrl + P**
+  > 清除 Derived Data。
+  >
+  > **⌘ + shift + H**
 
-  9. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
+4. [**ESJsonFormat**](https://github.com/EnjoySR/ESJsonFormat-Xcode)
 
-    > Swift 自动填写枚举值。
+  > 将 JSON 格式化输出为模型的属性。
+  >
+  > **ctrl + shift + J**
 
-  10. [**VVDocumenter-Xcode**](https://github.com/onevcat/VVDocumenter-Xcode)
+5. [**FuzzyAutocomplete**](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
 
-    > 注释神器！
-    >
-    > **///**
+  > 浮想输入！神器！
 
-  11. [XActivatePowerMode](https://github.com/qfish/XActivatePowerMode)
+6. [**KSImageNamed**](https://github.com/ksuther/KSImageNamed-Xcode)
 
-    > 炫酷的输入效果！目前不稳定，偶尔导致卡死，尤其 Swift 不建议使用。
+  > 图片预览。
 
-  12. [**XAlign**](https://github.com/qfish/XAlign)
+7. [**OMColorSense**](https://github.com/omz/ColorSense-for-Xcode)
 
-    > 代码快速对齐。
-    >
-    > **⌘ + ctrl + X**
+  > 颜色预览。
 
-  13. [XToDo](https://github.com/trawor/XToDo)
+8. [**Peckham**](https://github.com/markohlebar/Peckham)
 
-    > 提供 TODO 功能。
+  > 轻松导入头文件。神器！
+  >
+  > **⌘ + ctrl + P**
 
-  14. [ZLXCodeLine](https://github.com/MakeZL/ZLXCodeLine)
+9. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
 
-    > 查看代码行数/记录排行榜。
+  > Swift 自动填写枚举值。
 
-  15. [**RTImageAssets**](https://github.com/rickytan/RTImageAssets)
+10. [**VVDocumenter-Xcode**](https://github.com/onevcat/VVDocumenter-Xcode)
 
-    > 生成 @3x 的图片资源对应的 @2x 和 @1x 版本。
-    >
-    > 当然你也可以从 @2x 的图生成 @3x 版本，如果你对图片质量要求不高的话。
+  > 注释神器！
+  >
+  > **///**
+
+11. [XActivatePowerMode](https://github.com/qfish/XActivatePowerMode)
+
+  > 炫酷的输入效果！目前不稳定，偶尔导致卡死，尤其 Swift 不建议使用。
+
+12. [**XAlign**](https://github.com/qfish/XAlign)
+
+  > 代码快速对齐。
+  >
+  > **⌘ + ctrl + X**
+
+13. [XToDo](https://github.com/trawor/XToDo)
+
+  > 提供 TODO 功能。
+
+14. [ZLXCodeLine](https://github.com/MakeZL/ZLXCodeLine)
+
+  > 查看代码行数/记录排行榜。
+
+15. [**RTImageAssets**](https://github.com/rickytan/RTImageAssets)
+
+  > 生成 @3x 的图片资源对应的 @2x 和 @1x 版本。
+  >
+  > 当然你也可以从 @2x 的图生成 @3x 版本，如果你对图片质量要求不高的话。
 
 
 
