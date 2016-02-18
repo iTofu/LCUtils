@@ -14,7 +14,9 @@
 
 2. [Singleton](https://github.com/LeoiOS/LCUtils#singleton)
 
-3. [Xcode 插件](https://github.com/LeoiOS/LCUtils#xcode-插件)
+3. [ColorOfPoint](https://github.com/LeoiOS/LCUtils#ColorOfPoint)
+
+100. [Xcode 插件](https://github.com/LeoiOS/LCUtils#xcode-插件)
 
 
 
@@ -37,6 +39,14 @@
 快速创建适用于 ARC / MRC 下的 **单例** 。
 
 [查看源码](https://github.com/LeoiOS/LCUtils/tree/master/Singleton.h)
+
+
+
+## ColorOfPoint
+
+获取 UIView 上某一点的颜色。
+
+[查看源码](https://github.com/LeoiOS/LCUtils/tree/master/ColorOfPoint)
 
 
 
