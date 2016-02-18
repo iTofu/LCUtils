@@ -14,7 +14,7 @@
 
 2. [Singleton](https://github.com/LeoiOS/LCUtils#singleton)
 
-3. [ColorOfPoint](https://github.com/LeoiOS/LCUtils#ColorOfPoint)
+3. [ColorOfPoint](https://github.com/LeoiOS/LCUtils#colorofpoint)
 
 100. [Xcode 插件](https://github.com/LeoiOS/LCUtils#xcode-插件)
 
