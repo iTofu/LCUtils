@@ -44,7 +44,7 @@
 
 ## ColorOfPoint
 
-获取 UIView 上某一点的颜色。
+获取 UIView 上 **某一点的颜色**。
 
 [查看源码](https://github.com/LeoiOS/LCUtils/tree/master/ColorOfPoint)
 
