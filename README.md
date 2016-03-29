@@ -1,4 +1,4 @@
-# LCUtils
+# LCUtils [![LeoDev](https://img.shields.io/badge/blog-LeoDev.me-brightgreen.svg)](http://leodev.me)
 
 🎈🎅🎉🎄☀️🔥🐤🐔
 
