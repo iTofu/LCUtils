@@ -132,9 +132,9 @@
 
 ## 联系
 
-* 如有意见和建议，请直接提出新 [Issues](https://github.com/LeoiOS/LCUtils/issues/new) :)
-* Email: <leoios@sina.com> & <liucsuper@gmail.com>
-* Blog: http://LeoDev.me & http://www.leodong.com
+* 如有意见和建议，请直接提 [Issue](https://github.com/LeoiOS/LCUtils/issues/new) :)
+* Mail: <devtip@163.com>
+* Blog: http://LeoDev.me
 
 
 
