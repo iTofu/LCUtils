@@ -141,3 +141,7 @@
 ## 授权 License
 
 本项目采用 [MIT license](http://opensource.org/licenses/MIT) 开源，你可以利用采用该协议的代码做任何事情，只需要继续继承 MIT 协议即可。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LeoiOS/lcutils/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
